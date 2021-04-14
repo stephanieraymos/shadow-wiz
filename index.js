@@ -15,3 +15,6 @@ const shadowWiz = (options) => {
     }
   });
 };
+
+//Used to import into projects
+module.exports.shadowWiz = shadowWiz;
